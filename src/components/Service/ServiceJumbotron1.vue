@@ -5,13 +5,9 @@
 
             <h1
                 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
-                Lorem ipsum dolor sit amet consectetur. </h1>
-            <p class="mb-8 text-lg font-medium text-gray-700 lg:text-xl sm:px-16 lg:px-48 dark:text-gray-200">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pharetra massa ac tempus tincidunt. Nullam urna
-                diam, posuere ac suscipit non, iaculis quis nisi. Maecenas vitae lorem sit amet enim faucibus consequat et
-                at felis. Nulla hendrerit non risus ut pharetra. In nec vehicula ligula. Vestibulum consequat neque elit,
-                quis lacinia massa posuere in. Aliquam sed finibus odio. Phasellus vel odio convallis, mattis nisi quis,
-                suscipit nunc.</p>
+                Elevating Lives through Exceptional Doctors' Services </h1>
+            <p class="mb-8 text-lg font-medium text-gray-700 lg:text-xl  dark:text-gray-200 text-justify">
+                At our clinic, we are committed to elevating lives through the delivery of exceptional doctors' services. Our dedicated team of medical professionals combines compassion, expertise, and a patient-centric approach to provide comprehensive care that goes above and beyond expectations. With a focus on personalized treatment plans, advanced diagnostic tools, and innovative therapies, we strive to empower individuals on their healthcare journey, supporting them in achieving optimal well-being and a higher quality of life. Through our unwavering commitment to excellence, we aim to make a lasting positive impact on the lives of our patients, ensuring that they receive the exceptional care they deserve.</p>
 
 
             <div id="default-carousel" class="relative w-full h-[70vh] shadow-xl" data-carousel="slide">

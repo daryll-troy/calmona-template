@@ -10,16 +10,9 @@ import ContactMessage from './ContactMessage.vue'
             <div class="flex flex-col flex-1">
                 <h1
                     class="mb-4 text-center text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
-                    Lorem ipsum dolor sit amet consectetur. </h1>
+                    Connecting Care, One Call Away: Reach out to Our Dedicated Doctors Today</h1>
                 <p class="mb-8 text-lg font-medium text-gray-700 lg:text-xl  dark:text-gray-200">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pharetra massa ac tempus tincidunt. Nullam
-                    urna
-                    diam, posuere ac suscipit non, iaculis quis nisi. Maecenas vitae lorem sit amet enim faucibus consequat
-                    et
-                    at felis. Nulla hendrerit non risus ut pharetra. In nec vehicula ligula. Vestibulum consequat neque
-                    elit,
-                    quis lacinia massa posuere in. Aliquam sed finibus odio. Phasellus vel odio convallis, mattis nisi quis,
-                    suscipit nunc.</p>
+                    Experience the seamless connection of care with just one call, as our dedicated doctors eagerly await to serve you. Our compassionate team is readily available to address your healthcare needs, providing personalized attention, expert guidance, and timely appointments. Don't hesitate to reach out to us today, taking the first step towards better health and well-being, knowing that you are just a phone call away from accessing the exceptional care you deserve.</p>
             </div>
 
             <div class="flex-1">

@@ -7,10 +7,9 @@ import SigninButton from '../SigninButton.vue'
         <div class="grid max-w-screen-xl px-4 pt-8 pb-0 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
             <div class="mr-auto place-self-center lg:col-span-7">
                 <h1
-                    class="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white">
-                    Lorem ipsum dolor sit amet ad minim veniam</h1>
-                <p class="max-w-2xl mb-6 font-semibold text-gray-700 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">Duis
-                    aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                    class="max-w-2xl mb-4 text-4xl text-justify font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white">
+                    Your Path to Optimal Health: Expert Medical Care</h1>
+                <p class="max-w-2xl mb-6 font-semibold  text-justify  text-gray-700 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">Embark on a transformative journey towards optimal health with our expert medical care. Our dedicated team of professionals is committed to guiding you along this path, ensuring comprehensive and personalized treatment plans tailored to your unique needs. Experience a revitalized sense of well-being as we prioritize your health and empower you to reach your fullest potential.</p>
 
                 <div class="inline-flex gap-5">
 

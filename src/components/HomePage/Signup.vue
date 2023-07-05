@@ -3,11 +3,9 @@
         <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 grid lg:grid-cols-2 gap-8 lg:gap-16">
             <div class="flex flex-col justify-center">
                 <h1
-                    class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
-                    Temporibus autem quibusdam et aut </h1>
-                <p class="mb-6 text-lg font-normal text-gray-800 lg:text-xl dark:text-gray-400">Et harum quidem rerum
-                    facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio, cumque
-                    nihil impedit, quo minus id, quod maxime placeat, facere possimus.
+                    class="mb-4 text-4xl  font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
+                    Be a part of something bigger by prioritizing your medical care</h1>
+                <p class="mb-6 text-lg font-normal text-gray-800 lg:text-xl dark:text-gray-400">Sign up now to access comprehensive healthcare services that go beyond individual needs, encompassing the well-being of your community and beyond. By taking proactive steps towards your health, you not only invest in your own vitality but also contribute to a larger vision of promoting healthier societies, fostering resilience, and ensuring a brighter future for all. Together, let us create a lasting impact through the power of medical care and join a movement towards a healthier world.
                 </p>
                 <router-link to="/about"
                     class="text-blue-900 dark:text-blue-500 hover:underline font-medium text-lg inline-flex items-center">Read
